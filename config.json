@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvync",
+        "uuid": 21928307,
+        "checksum": "ceup6i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
